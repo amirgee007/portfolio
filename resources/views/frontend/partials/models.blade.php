@@ -71,7 +71,7 @@
                         <div class="modal-body">
                             <!-- Project Details Go Here -->
                             <h2>Sage Property</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                            <p class="item-intro text-muted">sale properties.</p>
                             <img class="img-responsive img-centered" src="img/portfolio/sage-model.jpg" alt="">
                             <p>Understanding your information improves our search for the right property just for you. We offer the first-rate options relevant to your preference and affordability.</p>
                             <p>Searching for your dream home can be time consuming but at Sage, we do the hunt, you do the pick. see  <a href="http://sage-property.seersol.com/">sageProperty.com</a>.</p>
