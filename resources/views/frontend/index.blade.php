@@ -57,7 +57,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/socksmain.PNG" class="img-responsive" alt="">
+                        <img src="img/portfolio/socksmain.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Say It sock</h4>
@@ -71,7 +71,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/jobseeker.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/jobseeker.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Cyprus Job Market</h4>
@@ -85,7 +85,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/sage.PNG" class="img-responsive" alt="">
+                        <img src="img/portfolio/sage.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Sage Property</h4>
