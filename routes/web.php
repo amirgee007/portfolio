@@ -14,3 +14,14 @@
 Route::get('/', function () {
     return view('frontend.index');
 });
+
+Route::get('/emailSend', function () {
+    return view('frontend.index');
+});
+
+
+
+Route::post('/emailSend', array(
+    'as' => 'email.send',
+    'uses' => 'PortfolioController@emailSend'));
+
