@@ -13,11 +13,11 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Say It With A Sock</h2>
-                            <p class="item-intro text-muted">Great and fun socks.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/sayitsock-model.JPG" alt="">
-                            <p><a href="https://portal.sayitwithasock.com/">SayItWithAsock</a> This application is built in laravel and this application tightly integrated with cratejoy subscriptions systems, and we created a system that allocate dynamic allocate product to shipments of the orders. and created feedback system. we integrated couple of third party libraries with this application like shipstation, elasticsearch, klaviyo, grooveHq etc.</p>
-                            <p>You can preview the site here <a href="https://portal.sayitwithasock.com/">here</a>.</p>
+                            <h2>nosclick</h2>
+                            <p class="item-intro text-muted">Low risk high income.</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/noslcikmain-modal.JPG" alt="">
+                            <p><a href="https://portal.sayitwithasock.com/">NosClick</a> This application is built in laravel and this application tightly integrated with some Payment Api its a  simple and affordable way to increase your monthly income by investing a small amount of money. Our various investment products are adapted to your needs. The profit as well as the initial capital is remunerated at the end of each investment period.</p>
+                            <p>You can preview the site here <a href="https://nosclick.com/">here</a>.</p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
                     </div>

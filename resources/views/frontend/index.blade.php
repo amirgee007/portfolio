@@ -57,10 +57,10 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/socksmain.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/noslcikmain.JPG" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Say It sock</h4>
+                        <h4>Nos Click</h4>
                         <p class="text-muted">Website Maintenance </p>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2013-15</h4>
+                                    <h4>2013-16</h4>
                                     <h4 class="subheading"><a href="http://pixiders.com/">pixiders.com</a></h4>
                                 </div>
                                 <div class="timeline-body">
@@ -145,7 +145,7 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2015-2017</h4>
+                                    <h4>2016-2018</h4>
                                     <h4 class="subheading"><a href="http://codebrisk.com/">codebrisk.com</a></h4>
                                 </div>
                                 <div class="timeline-body">
@@ -159,7 +159,7 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>January 2017</h4>
+                                    <h4>March 2017</h4>
                                     <h4 class="subheading">An Agency is Born</h4>
                                 </div>
                                 <div class="timeline-body">
@@ -241,8 +241,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <a href="http://portal.sayitwithasock.com/admin" target="_blank">
-                        <img src="img/logos/sock.png"  class="img-responsive img-centered" style="height: 50px;" alt="">
+                    <a href="https://nosclick.com/login" target="_blank">
+                        <img src="img/logos/nosclicklogo.JPG"  class="img-responsive img-centered" style="height: 50px;" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
