@@ -16,7 +16,7 @@
                             <h2>nosclick</h2>
                             <p class="item-intro text-muted">Low risk high income.</p>
                             <img class="img-responsive img-centered" src="img/portfolio/noslcikmain-modal.JPG" alt="">
-                            <p><a href="https://portal.sayitwithasock.com/">NosClick</a> This application is built in laravel and this application tightly integrated with some Payment Api its a  simple and affordable way to increase your monthly income by investing a small amount of money. Our various investment products are adapted to your needs. The profit as well as the initial capital is remunerated at the end of each investment period.</p>
+                            <p><a href="https://nosclick.com/">NosClick</a> This application is built in laravel and this application tightly integrated with some Payment Api its a  simple and affordable way to increase your monthly income by investing a small amount of money. Our various investment products are adapted to your needs. The profit as well as the initial capital is remunerated at the end of each investment period.</p>
                             <p>You can preview the site here <a href="https://nosclick.com/">here</a>.</p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
