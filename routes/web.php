@@ -11,6 +11,12 @@
 |
 */
 
+
+Route::get('/obsesion', function () {
+    return view('obsesion');
+});
+
+
 Route::get('/', function () {
     return view('frontend.index');
 });

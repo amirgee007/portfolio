@@ -246,18 +246,18 @@
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
-                    <a href="http://uetac.com/" target="_blank">
-                        <img src="img/logos/uet.png" class="img-responsive img-centered" style="height: 50px;" alt="">
+                    <a href="https://mjolnerintegrated.io" target="_blank">
+                        <img src="img/logos/mojo.png" class="img-responsive img-centered" style="height: 50px;" alt="mjolnerintegrated.io" title="mjolnerintegrated.io">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="http://fixturewire.com/#/" target="_blank">
+                        <img src="img/logos/fixturewire.png" class="img-responsive img-centered"  style="height: 50px;"  alt="http://fixturewire.com/#/" title="http://fixturewire.com/#/">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="http://www.almuhammadlinks.com" target="_blank">
                         <img src="img/logos/almuhammad.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="http://ashleysleepelite.com/" target="_blank">
-                        <img src="img/logos/ash.png" class="img-responsive img-centered"  style="height: 50px;"  alt="">
                     </a>
                 </div>
             </div>
