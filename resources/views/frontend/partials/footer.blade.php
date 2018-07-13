@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright &copy; Seersol.com 2017</span>
+                <span class="copyright">Copyright &copy; Seersol.com {{date('Y')}}</span>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
